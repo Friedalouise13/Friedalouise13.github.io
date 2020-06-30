@@ -13,3 +13,10 @@ und Vorurteilen auseinander.
 * ist oft verzweifelt und einsam 
 * ist sehr grüblerisch
 
+
+> Nie war ich lebendiger als 
+> in der Stunde meine Todes, jetzt 
+
+
+
+
