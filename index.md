@@ -22,7 +22,7 @@ und Vorurteilen auseinander.
 
 
 
-<img src ="https://de.wikipedia.org/wiki/Kassandra_(Mythologie)#/media/Datei:Cassandra1.jpeg" />
+<img src ="https://de.wikipedia.org/wiki/Kassandra_(Mythologie)#/media/Datei:Cassandra1.jpg" />
 
-![Kassandra](/https://de.wikipedia.org/wiki/Kassandra_(Mythologie)#/media/Datei:Cassandra1.jpeg)
+![Kassandra](/https://de.wikipedia.org/wiki/Kassandra_(Mythologie)#/media/Datei:Cassandra1.jpg)
 
